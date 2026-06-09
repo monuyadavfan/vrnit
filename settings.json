@@ -1,0 +1,19 @@
+{
+  "short": true,
+  "act_short": true,
+  "creator_short": false,
+  "force_join": false,
+  "maintenance": false,
+  "auto_delete": true,
+  "new_user_alert": true,
+  "movie_token": false,
+  "captcha_enabled": false,
+  "original_link": true,
+  "delete_timer": 180,
+  "referral_days": 3,
+  "max_warnings": 3,
+  "force_channel": "@ximove",
+  "promote_channel": "@trsgtechg",
+  "welcome_msg": "👋 Welcome! Use /help to get started.",
+  "upi_id": "8318158045@upi"
+}
